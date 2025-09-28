@@ -1,0 +1,5 @@
+This project shows how to create fractal designs using a Python script. Fractal designs look simple but are fascinating because they use the same component repeatedly to build intricate and beautiful patterns. The concept is very similar to recursive functions in programming — if you go deeper into the layers, you'll see the same pattern repeating, just like in recursion. You can learn more about fractal curves [here](https://en.wikipedia.org/wiki/Fractal_curve).
+
+The script is fully written for the Jupyter Notebook environment. You can find the notebook in the [`notebooks/`](notebooks/) directory.
+
+If you want to run or customize the script, you can install the required dependencies. All dependencies are managed using the [`uv`](https://docs.astral.sh/uv/) package manager. It only includes very common Python packages: [`NumPy`](https://numpy.org/) and [`matplotlib`](https://matplotlib.org/). **NumPy** is used for calculating the fractal design, while **matplotlib** is used to visualize it.
